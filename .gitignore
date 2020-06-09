@@ -1,0 +1,7 @@
+.idea
+venv
+.env
+delivery_categories.csv
+delivery_items.csv
+importscript.py
+__pycache__
